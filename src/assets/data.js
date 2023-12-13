@@ -39,14 +39,7 @@ export const data = [
     option4: "Pen Drive",
     ans: 2,
   },
-  {
-    question: "When is our anniversary?",
-    option1: "December 11",
-    option2: "December 12",
-    option3: "December 13",
-    option4: "December 14",
-    ans: 4,
-  },
+
   {
     question: "Who is known as the father of computer?",
     option1: "Charles Babbage",
